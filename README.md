@@ -1,2 +1,1 @@
-# Images
-This is my first time to use github!
+This is a repository to save images of life and work.
